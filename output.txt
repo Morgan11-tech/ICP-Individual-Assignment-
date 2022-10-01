@@ -1,0 +1,5 @@
+DUB from SEN to ACC 0 stops
+IST from DUB to ACC 0 stops
+ACC from IST to ACC 0 stops
+Total number of flights : 3
+Total pathcost is: 5111.830152879559
