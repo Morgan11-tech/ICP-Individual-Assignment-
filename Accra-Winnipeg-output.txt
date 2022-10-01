@@ -1,0 +1,48 @@
+1. 2J from DGAA to DGAA 0 stops.
+2. TU from DFFD to DFFD 0 stops.
+3. UG from DTTA to DTTA 0 stops.
+4. ZB from LIRN to LIRN 0 stops.
+5. ZB from EGGW to EGGW 0 stops.
+6. BA from LEMH to LEMH 0 stops.
+7. SX from EGLC to EGLC 0 stops.
+8. SX from LSZB to LSZB 0 stops.
+9. 3L from LIRJ to LIRJ 0 stops.
+10. 3L from EDNY to EDNY 0 stops.
+11. OU from LDZD to LDZD 0 stops.
+12. OU from LDZA to LDZA 0 stops.
+13. SK from LDSP to LDSP 0 stops.
+14. IR from ESGG to ESGG 0 stops.
+15. WY from OIIE to OIIE 0 stops.
+16. WY from OOMS to OOMS 0 stops.
+17. KQ from HTZA to HTZA 0 stops.
+18. WB from HTDA to HTDA 0 stops.
+19. WB from HRYR to HRYR 0 stops.
+20. ET from FOOL to FOOL 0 stops.
+21. BU from FZAA to FZAA 0 stops.
+22. ET from FZQA to FZQA 0 stops.
+23. P0 from FLND to FLND 0 stops.
+24. SA from FLLS to FLLS 0 stops.
+25. MK from FALE to FALE 0 stops.
+26. MK from FIMP to FIMP 0 stops.
+27. UA from VHHH to VHHH 0 stops.
+28. UA from PGUM to PGUM 0 stops.
+29. UA from PHNL to PHNL 0 stops.
+30. UA from KIAD to KIAD 0 stops.
+31. G4 from KTYS to KTYS 0 stops.
+32. G4 from KSFB to KSFB 0 stops.
+33. G4 from KYNG to KYNG 0 stops.
+34. NK from KMYR to KMYR 0 stops.
+35. NK from KACY to KACY 0 stops.
+36. B6 from KRSW to KRSW 0 stops.
+37. B6 from KHPN to KHPN 0 stops.
+38. UP from KPBI to KPBI 0 stops.
+39. BA from MYNN to MYNN 0 stops.
+40. JY from MBPV to MBPV 0 stops.
+41. AC from MDPP to MDPP 0 stops.
+42. WS from CYHZ to CYHZ 0 stops.
+43. AC from CYYC to CYYC 0 stops.
+
+Total flights: 43
+Total additional stops: 0
+Total distance: 1.0 km
+Optimality criteria: distance covered by route
